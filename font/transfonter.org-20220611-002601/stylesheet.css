@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/ 'Rubik-Bold.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-ExtraBold.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-ExtraBoldItalic.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-Light.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-BoldItalic.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-BlackItalic.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-LightItalic.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-SemiBold.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-SemiBoldItalic.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-Medium.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-MediumItalic.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../transfonter.org-20220611-002601/'Rubik-Regular.woff2') format('woff2'),
+        url(../transfonter.org-20220611-002601/'Rubik-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
